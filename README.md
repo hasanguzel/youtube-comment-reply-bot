@@ -77,8 +77,5 @@ Use responsibly to avoid violating YouTube's [Terms of Service](https://www.yout
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="vertical-align:middle"/>
     LinkedIn
   </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/hasansoepic/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="24" height="24" style="vertical-align:middle"/>
-    Instagram
   </a>
 </p>
